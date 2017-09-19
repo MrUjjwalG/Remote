@@ -1,4 +1,4 @@
 {
-   "link":"http://ujjwalg.tk",
+   "link":"https://github.com/MrUjjwalG/Remote/raw/master/Remote_2.0.apk",
    "version":"5.0"
 }
